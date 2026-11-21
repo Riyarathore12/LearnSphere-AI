@@ -64,3 +64,31 @@ screenshots/              # Captured by notebook
 ## Day 07 / 30 Days of AI
 
 Made for a build-in-public learning challenge. No permanent deployment required.
+
+
+## 📸 Application Screenshots
+
+### 01 Dashboard
+
+![01 Dashboard](screenshots/01-dashboard.png)
+
+### 02 Study Studio
+
+![02 Study Studio](screenshots/02-study-studio.png)
+
+### 03 Ai Study Kit
+
+![03 Ai Study Kit](screenshots/03-ai-study-kit.png)
+
+### 04 Flashcards
+
+![04 Flashcards](screenshots/04-flashcards.png)
+
+### 05 Practice Quiz
+
+![05 Practice Quiz](screenshots/05-practice-quiz.png)
+
+### 06 Study Planner
+
+![06 Study Planner](screenshots/06-study-planner.png)
+
